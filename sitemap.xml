@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://didokun.github.io/en/agenda</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr/agenda-contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/en/documents</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr/documentation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/en/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/en/financial-publications/archive/2017</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/en/financial-publication</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr/publication-financiere/archive/2017</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr/publication-financiere</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/en/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/fr/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://didokun.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en/agenda</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr/agenda-contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en/documents</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr/documentation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr/contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en/financial-publications/archive/2017</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en/financial-publication</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr/publication-financiere/archive/2017</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr/publication-financiere</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/en/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/fr/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://didokun.github.io/gatsby-test/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
