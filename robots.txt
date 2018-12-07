@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://didokun.github.io/gatsby-test/sitemap.xml
+Sitemap: https://didokun.github.io/sitemap.xml
 Host: https://didokun.github.io
